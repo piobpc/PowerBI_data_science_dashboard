@@ -1,7 +1,7 @@
 # Data Scientist Jobs Dashboard project created with support of Power BI
 ![Project1 Main Page](/images/P1_dashboard_main_page.jpg)
 ## Introduction
-This dashboard was created for **anyone interested in Data Science** in order to solve a problem with searching interesting data related to Data Science job offers or postings. Thanks to this project you may further **explore different industry trends and draw some own conslusions**.
+This dashboard was created for **anyone interested in Data Science** in order to solve a problem with searching interesting data related to Data Science job offers or postings. Thanks to this project you may further **explore different industry trends and draw some own conclusions**.
 
 The data used comes from 2024 data science job postings. 
 
@@ -18,4 +18,6 @@ If you'd like to you may in-depth explore each position by clicking on the Drill
 ![Project1 Second Page](/images/P2_dashboard_second_page.jpg)
 
 For instance, an user clicked on Senior Data Engineer role, so he may see more information presented in easy-to-read manner. 
+
+PS Huge shoutout to Luke Barousse as he inspired me to create this project, and to Kelly Adams for showing what's possible in the world of data. 
 
